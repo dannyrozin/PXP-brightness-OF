@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C238B51-CAB2-4D0F-A0E7-FF5EAE0AFBAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68BCF2507AD54F9B67A4DD37DAA2D7900BC7447A</key>
+		<string>https://github.com/dannyrozin/PXP-class-Spring-2016.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>emptyExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68BCF2507AD54F9B67A4DD37DAA2D7900BC7447A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dannyrozin/PXP-class-Spring-2016.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68BCF2507AD54F9B67A4DD37DAA2D7900BC7447A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68BCF2507AD54F9B67A4DD37DAA2D7900BC7447A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PXP%20test%20pixel%20setting%20speed</string>
+		</dict>
+	</array>
+</dict>
+</plist>
